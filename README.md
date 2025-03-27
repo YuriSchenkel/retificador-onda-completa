@@ -1,3 +1,4 @@
 # Retificador onda completa
 
-![image](https://github.com/user-attachments/assets/a73d2d4b-0adb-494d-8c90-f2cadb8e4bdc)
+##Esquemático:
+![image](https://github.com/user-attachments/assets/d2988d58-ce88-4032-a87a-c69f43d55985)
