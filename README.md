@@ -59,7 +59,7 @@ São fios ou cabos com terminais específicos para conectar componentes em proto
 3. **Capacitor**: Armazena carga e libera energia conforme necessário, reduzindo oscilações e fornecendo um sinal mais estável, próximo de uma corrente contínua pura.  
 4. **Regulador de Tensão (LM7805)**: Ajusta a tensão para 5V CC fixos na saída.  
 
-### Não foi adicionado as outras imagens de medição, porque o transformador nãe era o 7805. Então estava dando o resultado errado.
+#### Não foi adicionado as outras imagens de medição, porque o transformador nãe era o 7805. Então estava dando o resultado errado.
 
 ## PcB:
 ![image](https://github.com/user-attachments/assets/b099d23e-6e01-4b4d-8c19-561b2034f7a3)
