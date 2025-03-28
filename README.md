@@ -27,9 +27,6 @@ Componentes e suas funções:
 
 ![image](https://github.com/user-attachments/assets/6eed1721-2c3a-4854-8760-c9ec8b70193b)
 
-### Medição da voltadgem do regulador de tensão do circuito de retificador de onda completa
-![image](https://github.com/user-attachments/assets/69d45d6d-48e4-4e1e-953b-f845e2decb7e)
-
 ### Componentes utilizados:
 #### Transformador:
 Converte a tensão elétrica de um nível para outro. Pode reduzir a tensão da rede elétrica (ex: 220V para 12V) ou aumentá-la, dependendo da aplicação. Funciona por indução eletromagnética.
@@ -52,6 +49,8 @@ Emissor de luz
 #### Conectores Jumper:
 São fios ou cabos com terminais específicos para conectar componentes em protoboards ou placas de circuito, permitindo testes e montagens temporárias sem necessidade de solda.
 
+### Medição da voltadgem do regulador de tensão do circuito de retificador de onda completa
+![image](https://github.com/user-attachments/assets/69d45d6d-48e4-4e1e-953b-f845e2decb7e)
 
 ### Fluxo de Conversão de Tensão  
 
@@ -60,6 +59,7 @@ São fios ou cabos com terminais específicos para conectar componentes em proto
 3. **Capacitor**: Armazena carga e libera energia conforme necessário, reduzindo oscilações e fornecendo um sinal mais estável, próximo de uma corrente contínua pura.  
 4. **Regulador de Tensão (LM7805)**: Ajusta a tensão para 5V CC fixos na saída.  
 
+### Não foi adicionado as outras imagens de medição, porque o transformador nãe era o 7805. Então estava dando o resultado errado.
 
 ## PcB:
 ![image](https://github.com/user-attachments/assets/b099d23e-6e01-4b4d-8c19-561b2034f7a3)
