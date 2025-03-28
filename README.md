@@ -13,7 +13,7 @@ Componentes e suas funções:
 
 **Capacitor**: Filtra a tensão contínua pulsante da ponte retificadora, suavizando as ondulações e tornando-a mais contínua.
 
-**Capacitores**: Filtram ruídos de alta frequência na tensão contínua, melhorando a estabilidade da tensão de saída.
+**Diodo**: Permite a passagem de corrente elétrica em apenas uma direção, funcionando como uma válvula. Muito usado em retificadores para converter corrente alternada (CA) em corrente contínua (CC)
 
 **Regulador de Tensão**: Mantém a tensão de saída em um valor constante de 5V, independentemente das variações na tensão de entrada ou na carga.
 
