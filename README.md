@@ -1,25 +1,25 @@
 # Retificador onda completa
 
-Componentes utilizados:
-### Transformador:
+### Componentes utilizados:
+#### Transformador:
 Converte a tensão elétrica de um nível para outro. Pode reduzir a tensão da rede elétrica (ex: 220V para 12V) ou aumentá-la, dependendo da aplicação. Funciona por indução eletromagnética.
 
-### Diodo
+#### Diodo
 Permite a passagem de corrente elétrica em apenas uma direção, funcionando como uma válvula. Muito usado em retificadores para converter corrente alternada (CA) em corrente contínua (CC).
 
-### Capacitor
+#### Capacitor
 Armazena e libera carga elétrica, funcionando como um pequeno reservatório de energia. Pode ser usado para filtragem (suavizar variações de tensão), acoplamento e temporização em circuitos eletrônicos.
 
-### Regulador de Tensão - LM7805
+#### Regulador de Tensão - LM7805
 Mantém uma tensão de saída estável de 5V, independentemente de variações na tensão de entrada ou na corrente consumida. Muito usado em circuitos que precisam de alimentação fixa.
 
-### Resistor
+#### Resistor
 Limita o fluxo de corrente elétrica em um circuito, ajudando a controlar tensões e correntes. Seu valor é medido em ohms (Ω).
 
-### LED:
+#### LED:
 Emissor de luz
 
-### Conectores Jumper:
+#### Conectores Jumper:
 São fios ou cabos com terminais específicos para conectar componentes em protoboards ou placas de circuito, permitindo testes e montagens temporárias sem necessidade de solda.
 
 
