@@ -29,8 +29,18 @@ São fios ou cabos com terminais específicos para conectar componentes em proto
 
 ## Prática:
 ![image](https://github.com/user-attachments/assets/e67626eb-0345-46b6-922f-20f38a4ef90b)
+
 ![image](https://github.com/user-attachments/assets/6eed1721-2c3a-4854-8760-c9ec8b70193b)
+
+### Medição da voltadgem do regulador de tensão do circuito de retificador de onda completa
 ![image](https://github.com/user-attachments/assets/69d45d6d-48e4-4e1e-953b-f845e2decb7e)
+
+## Fluxo de Conversão de Tensão  
+
+1. **Transformador**: Reduz a tensão da rede elétrica para 12V CA.  
+2. **Ponte de Diodos**: Converte a corrente alternada (CA) em corrente contínua pulsante.  
+3. **Capacitor**: Armazena carga e libera energia conforme necessário, reduzindo oscilações e fornecendo um sinal mais estável, próximo de uma corrente contínua pura.  
+4. **Regulador de Tensão (LM7805)**: Ajusta a tensão para 5V CC fixos na saída.  
 
 
 ## PcB:
@@ -38,7 +48,11 @@ São fios ou cabos com terminais específicos para conectar componentes em proto
 
 
 ## 3D:
+
+### Representação em 3D da parte superior da placa
 ![image](https://github.com/user-attachments/assets/6ec56372-d491-4606-b210-12e8b1849709)
+
+### Representação em 3D da parte inferior da placa
 ![image](https://github.com/user-attachments/assets/e5a3acbe-c877-453e-bcc6-39f4410ae05b)
 
 
